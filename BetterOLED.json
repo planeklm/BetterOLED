@@ -1,6 +1,6 @@
 {
-  "name": "BetterDarkPurpleNoBG",
-  "description": "Actually OLED.",
+  "name": "BetterOLED",
+  "description": "An actual OLED theme for Enmity, a mobile discord client.",
   "color": "#000000",
   "authors": [
     {
@@ -31,19 +31,19 @@
       "#ffffff"
     ],
     "INTERACTIVE_NORMAL": [
-      "#8F5CA8",
+      "#1f1f1f",
       "#FFFFFF"
     ],
     "INTERACTIVE_HOVER": [
-      "#8F5CA8",
+      "#1f1f1f",
       "#ffffff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#8F5CA8",
+      "#1f1f1f",
       "#FFFFFF"
     ],
     "INTERACTIVE_MUTED": [
-      "#8F5CA8",
+      "#1f1f1f",
       "#FFFFFF"
     ],
     "BACKGROUND_PRIMARY": [
@@ -144,7 +144,7 @@
       "#000000"
     ],
     "TEXT_LINK": [
-      "#8F5CA8",
+      "#ffffff",
       "#ffffff"
     ],
     "KEYBOARD": [
@@ -152,7 +152,7 @@
       "#ffffff"
     ],
     "CHANNEL_ICON": [
-      "#8F5CA8",
+      "#ffffff",
       "#ffffff"
     ]
   },
